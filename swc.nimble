@@ -6,3 +6,4 @@ srcDir        = "src"
 bin           = @["swc"]
 
 requires "nim >= 1.0.4"
+requires "dotenv >= 1.1.1"
